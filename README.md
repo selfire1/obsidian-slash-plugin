@@ -1,1 +1,1 @@
-✅ # obsidian-slash-plugin
+# Slash++
